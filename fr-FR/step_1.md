@@ -2,9 +2,8 @@
 
 TEST EXPLORE BUILD
 
-minor change
-
-some change
+Nothing to see here
+and another thing...
 
 In this project, <mark> short project description </mark>
 
